@@ -1,5 +1,5 @@
 # Inochi2D Branding Resources.
-Logo designed by [James "Rakujira" Daniel](https://twitter.com/rakujira).
+Logo designed by [James "Rakujira" Daniel](https://twitter.com/rakujira).  
 Mascot designed by [Kinu Gitsune](https://twitter.com/kinugitsune).
 
 ### Conditions of Use
