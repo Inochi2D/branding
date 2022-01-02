@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <linearGradient id="logo_transparent-a" x1="0%" x2="100%" y1="47.189%" y2="54.939%">
+      <stop offset="0%" stop-color="#F49D5D"/>
+      <stop offset="43.379%" stop-color="#F45DBA"/>
+      <stop offset="100%" stop-color="#886DDB"/>
+    </linearGradient>
+    <linearGradient id="logo_transparent-b" x1="103.46%" x2="4.2%" y1="50%" y2="50.524%">
+      <stop offset="0%" stop-color="#3A32EC"/>
+      <stop offset="100%" stop-color="#9361FF"/>
+    </linearGradient>
+    <linearGradient id="logo_transparent-c" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#3932EC"/>
+      <stop offset="100%" stop-color="#8446FF"/>
+    </linearGradient>
+    <linearGradient id="logo_transparent-d" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#3932EC"/>
+      <stop offset="100%" stop-color="#8446FF"/>
+    </linearGradient>
+    <linearGradient id="logo_transparent-e" x1="87.99%" x2="23.03%" y1="100.457%" y2="19.263%">
+      <stop offset="0%" stop-color="#565FE3"/>
+      <stop offset="56.032%" stop-color="#B972ED"/>
+      <stop offset="100%" stop-color="#F45DBA"/>
+    </linearGradient>
+    <linearGradient id="logo_transparent-f" x1="-16.877%" x2="100%" y1="34.924%" y2="34.924%">
+      <stop offset="0%" stop-color="#F4936B"/>
+      <stop offset="100%" stop-color="#E25DF4"/>
+    </linearGradient>
+    <linearGradient id="logo_transparent-g" x1="0%" x2="97.602%" y1="50%" y2="49.467%">
+      <stop offset="0%" stop-color="#BF48FF"/>
+      <stop offset="100%" stop-color="#8145FE"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" transform="translate(-1 28)">
+    <polygon fill="url(#logo_transparent-a)" points="124.764 0 235.858 0 270.934 56 299 56 267 88 253.219 88 218.142 32 137.235 32 76.313 88 19 88 51 56 63.84 56"/>
+    <polygon fill="url(#logo_transparent-b)" points="219 56 187 88 99 88 131 56"/>
+    <polygon fill="url(#logo_transparent-c)" points="74.458 123.567 48.352 232 15.503 232 41.973 122.056"/>
+    <polygon fill="url(#logo_transparent-d)" points="212.283 115.91 184.353 231.999 151.502 231.999 179.525 115.61"/>
+    <polygon fill="url(#logo_transparent-e)" points="187 104 287.113 104 266.898 191.598 236.963 215.997 192.538 216 224.538 184 235.81 184 246.886 136 155 136"/>
+    <polygon fill="url(#logo_transparent-f)" points="151.113 104 126.189 212 93.348 212 110.886 136 19 136 51 104"/>
+    <polygon fill="url(#logo_transparent-g)" points="136 168 104 200 0 200 32 168"/>
+  </g>
+</svg>
