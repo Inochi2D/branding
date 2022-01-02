@@ -23,7 +23,7 @@ Alternative terms may be requested in the form of written permission from the cr
  * Using it on your application that is entirely unrelated to and/or does not make use of Inochi2D.
  * Using it for promotional material for a game written with an other framework.
  * Making a fork of the project, calling it "Inochi2D" and using the same resources.
- * Using it in a game featuring that could negatively reflect on the Inochi2D project.
+ * Using it in a game featuring elements that could negatively reflect on the Inochi2D project.
 
 ### Stance on Eroge/Erotic Games
 While the Inochi2D Project in itself has nothing against Eroge/Erotic Games, we do reserve the right to not provide support to developers of games which we find to be in bad taste.  
