@@ -30,3 +30,6 @@ Alternative terms may be requested in the form of written permission from the cr
 While the Inochi2D Project in itself has nothing against Eroge/Erotic Games, we do reserve the right to not provide support to developers of games which we find to be in bad taste.  
 (Eg. games depicting rape in a "positive" way, depicting underage (looking) characters in adult situations, etc.)
 
+### Stance on Cryptocurrencies and NFTs
+You are not under any circumstance allowed to use Inochi2D's branding assets to promote anything to do with blockchain, cryptocurrency or NFTs.  
+We will not accept any donations in the form of cryptocurrency either.
