@@ -8,7 +8,7 @@ These assets are for use within the Inochi2D Project, and shall not be used to d
  * **2** Be used in a way that could tarnish the image of the Inochi2D project.
 
 Alternative terms may be requested in the form of written permission from the creator of the branding materials **and** the Inochi2D Maintainers.  
-*If the last condition is broken and your game is made with Inochi2D libraries/software, please remove any big branding from your game displaying/featuring the Inochi2D logo.*
+*If the last condition is broken and your game is made with Inochi2D libraries/software, please remove any big branding from your game displaying/featuring the Inochi2D logo.*  
 *The Inochi2D Project Maintainers reserve the right to revoke permission to use the assets if **we** feel the spirit of the conditions have been broken.*
 
 ### The mascot
