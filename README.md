@@ -1,4 +1,4 @@
-# Inochi2D Branding Resources.
+# Inochi2D Branding Resources
 Logo designed by [James "Rakujira" Daniel](https://twitter.com/rakujira).  
 Mascot designed by [Kinu Gitsune](https://twitter.com/kinugitsune).
 
@@ -9,6 +9,7 @@ These assets are for use within the Inochi2D Project, and shall not be used to d
 
 Alternative terms may be requested in the form of written permission from the creator of the branding materials **and** the Inochi2D Maintainers.  
 *If the last condition is broken and your game is made with Inochi2D libraries/software, please remove any big branding from your game displaying/featuring the Inochi2D logo.*
+*The Inochi2D Project Maintainers reserve the right to revoke permission to use the assets if **we** feel the spirit of the conditions have been broken.*
 
 ### The mascot
  * The Inochi2D mascot is reserved for use within the Inochi2D Project, and may not be used in promotional material for other software or games without prior permission from the Inochi2D BDFL (Luna).  
