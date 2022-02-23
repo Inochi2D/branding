@@ -13,9 +13,14 @@ Alternative terms may be requested in the form of written permission from the cr
 *The Inochi2D Project Maintainers reserve the right to revoke permission at any time to use the assets if **we** feel the spirit of the conditions have been broken.*
 
 ### The mascot
+<img src="https://raw.githubusercontent.com/Inochi2D/branding/main/inochi2dfox2.jpg" width="256">
+
+This is Ada, our mascot. She was designed by [Kinu Gitsune](https://twitter.com/kinugitsune) and modelled by [ku-ini](https://twitter.com/duckmastah).  
+The following terms **additionally** applies to usage of our mascot.  
+
  * The Inochi2D mascot is reserved for use within the Inochi2D Project, and may not be used in promotional material for other software or games without prior permission from the Inochi2D BDFL (Luna).  
  * The model included with Inochi Creator is as well only allowed to be used to test Inochi2D, you may not create games or video content using the mascot model without prior permission from the Inochi2D BDFL.
- * We accept fan-art of our mascot but do not allow art of our mascot to be sold without prior written permission from the project BDFL. NFTs are strictly prohibited.
+ * We accept fan-creations of our mascot but do not allow material (official and unofficial) of our mascot to be sold without prior written permission from the project BDFL. NFTs are strictly prohibited.
 
 ### Examples of things that are allowed
  * Using the Inochi2D logo as a splashscreen in your game that was developed with Inochi2D, in a "technologies used" section or in the credits of the game. (while not breaking condition 2)
