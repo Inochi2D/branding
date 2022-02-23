@@ -32,8 +32,8 @@ The following terms **additionally** applies to usage of our mascot.
  * Using it for promotional material for a game written with an other framework.
  * Making a fork of the project, calling it "Inochi2D" and using the same resources.
  * Using it in a game featuring elements that could negatively reflect on the Inochi2D project.
- * Selling Inochi2D branding assets as NFTs and selling unofficial merch with our branding resources on them.
- * Minting officially commissioned or fanart of our mascot as NFTs and selling unofficial merch with her design.
+ * Selling Inochi2D branding assets as NFTs or selling unofficial merch with our branding resources on them.
+ * Minting officially commissioned or fanart of our mascot as NFTs or selling unofficial merch with her design.
 
 ### Stance on Eroge/Erotic Games
 While the Inochi2D Project in itself has nothing against Eroge/Erotic Games, we do reserve the right to not provide support to developers of games which we find to be in bad taste.  
