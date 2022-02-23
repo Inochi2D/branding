@@ -6,14 +6,16 @@ Mascot designed by [Kinu Gitsune](https://twitter.com/kinugitsune).
 These assets are for use within the Inochi2D Project, and shall not be used to do the following:
  * **1** Sell any products or be used as an statement of endorsement in promotional material of unrelated products and/or products that break the terms of the Inochi2D license(s)
  * **2** Be used in a way that could tarnish the image of the Inochi2D project.
+ * **3** Sell the branding resources themselves
 
 Alternative terms may be requested in the form of written permission from the creator of the branding materials **and** the Inochi2D Maintainers.  
-*If the last condition is broken and your game is made with Inochi2D libraries/software, please remove any big branding from your game displaying/featuring the Inochi2D logo.*  
-*The Inochi2D Project Maintainers reserve the right to revoke permission to use the assets if **we** feel the spirit of the conditions have been broken.*
+*If the condition 2 is broken and your game is made with Inochi2D libraries/software, please remove any big branding from your game displaying/featuring the Inochi2D logo.*  
+*The Inochi2D Project Maintainers reserve the right to revoke permission at any time to use the assets if **we** feel the spirit of the conditions have been broken.*
 
 ### The mascot
  * The Inochi2D mascot is reserved for use within the Inochi2D Project, and may not be used in promotional material for other software or games without prior permission from the Inochi2D BDFL (Luna).  
  * The model included with Inochi Creator is as well only allowed to be used to test Inochi2D, you may not create games or video content using the mascot model without prior permission from the Inochi2D BDFL.
+ * We accept fan-art of our mascot but do not allow art of our mascot to be sold without prior written permission from the project BDFL. NFTs are strictly prohibited.
 
 ### Examples of things that are allowed
  * Using the Inochi2D logo as a splashscreen in your game that was developed with Inochi2D, in a "technologies used" section or in the credits of the game. (while not breaking condition 2)
@@ -25,6 +27,8 @@ Alternative terms may be requested in the form of written permission from the cr
  * Using it for promotional material for a game written with an other framework.
  * Making a fork of the project, calling it "Inochi2D" and using the same resources.
  * Using it in a game featuring elements that could negatively reflect on the Inochi2D project.
+ * Selling Inochi2D branding assets and art of our mascot as NFTs and selling unofficial merch with our branding resources on them.
+ * Minting officially commissioned or fanart of our mascot as NFTs and selling unofficial merch with her design.
 
 ### Stance on Eroge/Erotic Games
 While the Inochi2D Project in itself has nothing against Eroge/Erotic Games, we do reserve the right to not provide support to developers of games which we find to be in bad taste.  
