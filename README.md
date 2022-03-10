@@ -20,7 +20,7 @@ Alternative terms may be requested in the form of written permission from the cr
 *The Inochi2D Project Maintainers reserve the right to revoke permission at any time to use the assets if **we** feel the spirit of the conditions have been broken.*
 
 ### The mascot
-<img src="https://raw.githubusercontent.com/Inochi2D/branding/main/ada/inochi2dfox2.jpg" width="256">
+<img src="https://raw.githubusercontent.com/Inochi2D/branding/main/ada/ada-ref.png" width="256">
 
 This is Ada, our mascot. She was designed by [Kinu Gitsune](https://twitter.com/kinugitsune) and modelled by [ku-ini](https://twitter.com/duckmastah).  
 The following terms **additionally** applies to usage of our mascot.  
