@@ -2,7 +2,14 @@
 Logo designed by [James "Rakujira" Daniel](https://twitter.com/rakujira).  
 Mascot designed by [Kinu Gitsune](https://twitter.com/kinugitsune).
 
-### Conditions of Use
+## Structure
+ 1. Logo related resources reside in the `logo/`
+ 2. Resources related to our mascot, Ada, reside in `ada/`
+
+&nbsp;
+&nbsp;
+
+## Conditions of Use
 These assets are for use within the Inochi2D Project, and shall not be used to do the following:
  * **1** Sell any products or be used as an statement of endorsement in promotional material of unrelated products and/or products that break the terms of the Inochi2D license(s)
  * **2** Be used in a way that could tarnish the image of the Inochi2D project.
@@ -13,7 +20,7 @@ Alternative terms may be requested in the form of written permission from the cr
 *The Inochi2D Project Maintainers reserve the right to revoke permission at any time to use the assets if **we** feel the spirit of the conditions have been broken.*
 
 ### The mascot
-<img src="https://raw.githubusercontent.com/Inochi2D/branding/main/inochi2dfox2.jpg" width="256">
+<img src="https://raw.githubusercontent.com/Inochi2D/branding/main/ada/inochi2dfox2.jpg" width="256">
 
 This is Ada, our mascot. She was designed by [Kinu Gitsune](https://twitter.com/kinugitsune) and modelled by [ku-ini](https://twitter.com/duckmastah).  
 The following terms **additionally** applies to usage of our mascot.  
