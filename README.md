@@ -33,8 +33,7 @@ This is the project's logo, this both represents the Inochi2D library itself as 
 ### The Session and Creator icons
 <img src="https://raw.githubusercontent.com/Inochi2D/branding/main/icons.png" width="512">
 
-The icons for Inochi Creator and Inochi Session represent the individual apps, Session is the app used for streaming with a model.  
-Creator is the app used for creating models for streaming or game development use.
+The icons for Inochi Creator and Inochi Session represent the individual apps, Session is the app used for streaming with a model. Creator is the app used for creating models for streaming or game development use.
 
 &nbsp;
 &nbsp;
