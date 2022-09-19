@@ -1,10 +1,13 @@
 # Inochi2D Branding Resources
 Logo designed by [James "Rakujira" Daniel](https://twitter.com/rakujira).  
-Mascot designed by [Kinu Gitsune](https://twitter.com/kinugitsune).
+Mascot designed by [Kinu Gitsune](https://twitter.com/kinugitsune).  
+Session & Creator Icon designed by [nighteden](https://twitter.com/nighteden).  
 
 ## Structure
  1. Logo related resources reside in the `logo/`
  2. Resources related to our mascot, Ada, reside in `ada/`
+ 3. Resources related to Inochi Creator Iconography, reside in `creator/`
+ 4. Resources related to Inochi Session Iconography, reside in `session/`
 
 &nbsp;
 &nbsp;
@@ -18,6 +21,23 @@ These assets are for use within the Inochi2D Project, and shall not be used to d
 Alternative terms may be requested in the form of written permission from the creator of the branding materials **and** the Inochi2D Maintainers.  
 *If the condition 2 is broken and your game is made with Inochi2D libraries/software, please remove any big branding from your game displaying/featuring the Inochi2D logo.*  
 *The Inochi2D Project Maintainers reserve the right to revoke permission at any time to use the assets if **we** feel the spirit of the conditions have been broken.*
+
+### The project logo
+<img src="https://raw.githubusercontent.com/Inochi2D/branding/main/logo/logo_transparent_256.png" width="256">
+
+This is the project's logo, this both represents the Inochi2D library itself as well as the surrounding project. Inochi Session and Inochi Creator have their own icons which can be found below.
+
+&nbsp;
+&nbsp;
+
+### The Session and Creator icons
+<img src="https://raw.githubusercontent.com/Inochi2D/branding/main/icons.png" width="512">
+
+The icons for Inochi Creator and Inochi Session represent the individual apps, Session is the app used for streaming with a model.  
+Creator is the app used for creating models for streaming or game development use.
+
+&nbsp;
+&nbsp;
 
 ### The mascot
 <img src="https://raw.githubusercontent.com/Inochi2D/branding/main/ada/ada-ref.png" width="256">
