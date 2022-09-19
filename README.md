@@ -1,7 +1,7 @@
 # Inochi2D Branding Resources
 Logo designed by [James "Rakujira" Daniel](https://twitter.com/rakujira).  
 Mascot designed by [Kinu Gitsune](https://twitter.com/kinugitsune).  
-Session & Creator Icon designed by [nighteden](https://twitter.com/nighteden).  
+Session & Creator Icon designed by [nighteden](https://twitter.com/nightedenart).  
 
 ## Structure
  1. Logo related resources reside in the `logo/`
